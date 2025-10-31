@@ -104,4 +104,4 @@ Among all item types and outlet types, **Hard Drinks in Supermarket Type 2** out
 **Ashutosh Sahoo**  
 **Computer Science and Engineering**  
 **Specialization:** Data Science and Analytics | IIIT Nagpur  
-📧 **Email:** [sahooashutosh792@gmail.com](mailto:sahooashutosh792@gmail.com)
+**Email:** [sahooashutosh792@gmail.com](mailto:sahooashutosh792@gmail.com)
