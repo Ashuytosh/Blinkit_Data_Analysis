@@ -30,7 +30,7 @@ st.markdown(
 st.markdown("---")
 
 # ========== CLEANED DATASET OVERVIEW ==========
-st.subheader("🧹 Cleaned Dataset Overview")
+st.subheader("Cleaned Dataset Overview")
 
 df = pd.read_csv("Dataset/Blinkit_Cleaned_Data.csv")
 

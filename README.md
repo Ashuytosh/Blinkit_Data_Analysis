@@ -1,21 +1,25 @@
 # **Blinkit Data Analysis**
 
+[![🔗 Live Streamlit App - Click Here](https://img.shields.io/badge/Live%20Streamlit%20App-Click%20Here-F7C600?style=for-the-badge)](https://blinkitdataanalysis-nb9tqhmi87yu4polnfxf6q.streamlit.app/)
+
+
+---
 ## **Dataset Overview**
 This project utilizes the **Blinkit Dataset**, consisting of **8523 rows** and **12 columns**.  
 
 **Column Names:**
-- Item_Identifier  
-- Item_Weight  
-- Item_Fat_Content  
-- Item_Visibility  
-- Item_Type  
-- Item_MRP  
-- Outlet_Identifier  
-- Outlet_Establishment_Year  
-- Outlet_Size  
-- Outlet_Location_Type  
-- Outlet_Type  
-- Sales  
+- Item Fat Content
+- Item Identifier  
+- Item Type
+- Outlet Establishment Year 
+- Outlet Identifier 
+- Outlet Location Type 
+- Outlet Size 
+- Outlet Type 
+- Item Visibility  
+- Item Weight  
+- Total Sales 
+- Rating 
 
 **KPI Used:**  
 **Total Sales**, **Average Sales**, **No. of Items Sold**, and **Average Ratings**
